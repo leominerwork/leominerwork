@@ -1,2 +1,1 @@
-# Hello
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoMinerWork)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://komarev.com/ghpvc/?username=leominerdev&color=coral" alt="watching_count" />
